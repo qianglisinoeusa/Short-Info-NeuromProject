@@ -6,11 +6,11 @@ The short introduction of the neurome project
 Project leader: [Dr. Larry W. Swanson](http://larrywswanson.com/?page_id=13)
 
 
-<center>![Brain Galaxy](brain_galaxy.png)</center>
+![Brain Galaxy](brain_galaxy.PNG)<br/>
 Adapted from [the-neurome-project](https://sites.google.com/view/the-neurome-project/home)
 
-#### <center>Toward a Pan-Mammalian Neurome</center> ####
-<center>![BrainBody](BrianBody.png)</center>
+#### Toward a Pan-Mammalian Neurome ####
+<center>![BrianBody](BrianBody.png)</center>
 Adapted from [the-neurome-project](https://sites.google.com/view/the-neurome-project/home)
 
 The neurome project aim can be divided two parts:
