@@ -152,6 +152,13 @@ Graph of the 4-systems network model of the nervous system (L.W. Swanson, unpubl
 Galen, Vesalius, Willis, Cajal, Watson, Crick
 
 *[History of Neuroscience](http://larrywswanson.com/wp-content/uploads/2015/03/SfN-History-of-NS-Chicago-2009.ppt)*, Dr. Larry W. Swanson's Lecture at the *39th annual meeting of the Society for Neuroscience in Chicago (October 20, 2009)*.
+
+![connectomeMap](botaFigS4layers-1024x459.jpg)<br/>
+Adapted from neurome project.
+
+![Dinosaur](Hebel-Stromberg-1986-skeleton.jpg)<br/>
+Adapted from neurome project.
+
 #### References ####
 
 1. Monro, A. secundus (1783). Observations on the Structure and Functions of the Nervous System: Illustrated with Tables (Creech & Johnson, Edinburgh).
