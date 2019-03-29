@@ -10,7 +10,7 @@ Project leader: [Dr. Larry W. Swanson](http://larrywswanson.com/?page_id=13)
 Adapted from [the-neurome-project](https://sites.google.com/view/the-neurome-project/home)
 
 #### Toward a Pan-Mammalian Neurome ####
-<center>![BrianBody](BrianBody.png)</center>
+![BrianBody](BrianBody.png)<br/>
 Adapted from [the-neurome-project](https://sites.google.com/view/the-neurome-project/home)
 
 The neurome project aim can be divided two parts:
@@ -37,17 +37,17 @@ Region nomenclature follows an open access atlas for the rat brain ([Brain Maps 
 
 ##### Connectome #####
 
-<center>![human nervous system](Vesalius-nerveman-base.jpg)</center>
+![human nervous system](Vesalius-nerveman-base.jpg)<br/>
 The human nervous system (Vesalius, 1543)
 
 The term *“connectome”* was introduced by Olaf Sporns, Giulio Tononi, and Rolf Kötter in a 2005 paper, [The human connectome: a structural description of the human brain](http://www.ncbi.nlm.nih.gov/pubmed/?term=Sporns+2005+connectome), where they stated that “The connection matrix of the human brain (the human ‘connectome’) represents an indispensable foundation for basic and applied neurobiological research.”
 
 A complete connectome would include not just the brain, but the nervous system as a whole, along with the other systems of the body (muscular, endocrine, digestive, and so on) related to the nervous system (that is, providing inputs and receiving outputs)–a connection matrix that has been called a neurome (Bota et al., 2015, PNAS). Here is the general form of such a complete connectome, which, of course, is bilateral, representing the right and left halves of the body:
 
-<center>![mammalian connectome](Neurome-bilateral.jpg)</center>
+![mammalian connectome](Neurome-bilateral.jpg)<br/>
 A complete mammalian connectome, or neurome (L.W. Swanson, 2015, unpublished).
 
-<center>![Flatmap showing output connections](MPN-flatmap.jpg)</center>
+![Flatmap showing output connections](MPN-flatmap.jpg)<br/>
 Flatmap showing output connections (pathways and terminal fields) of the rat medial preoptic nucleus (Simerly & Swanson, 1988).
 
  
@@ -60,7 +60,7 @@ Adapted from Alvarez-Bolado & Swanson (1996).
 
 Comparison of rat and human central nervous system flatmaps.
 
-<center>![rat and human central nervous system flatmaps](TINS-1995-poster2.jpg)</center>
+![rat and human central nervous system flatmaps](TINS-1995-poster2.jpg)<br/>
 Poster by L.W. Swanson published in Trends in Neurosciences (November, 1995).
 
 ##### MAPPING CONNECTIONS ON STANDARD TEMPLATES #####
@@ -121,13 +121,13 @@ The fourth edition (following editions in 1992, 1998, 2004) of Brain maps: struc
 </blockquote>
 
 
-![adult Rat brain atlas](adultBrainMap.jpg)
+![adult Rat brain atlas](adultBrainMap.jpg)<br/>
 Atlas of the adult rat brain. Adapted from Brain Maps 4.0. Swanson, L. W. 2018. 
 
-<center>![Atlas of flatmaps](flatmapbrain.png)</center>
+![Atlas of flatmaps](flatmapbrain.png)<br/>
 Atlas of flatmaps. Adapted from Brain Maps 4.0. Swanson, L. W. 2018. 
 
-<center>![Human CNS flatmaps 2.0](humanFlatCNS.png)</center>
+![Human CNS flatmaps 2.0](humanFlatCNS.png)<br/>
 Human CNS flatmaps 2.0. Adapted from Brain Maps 4.0. Swanson, L. W. 2018. <br/>
 
 3.<br/><br/>
